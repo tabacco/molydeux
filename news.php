@@ -174,7 +174,7 @@
     </div>    
     <div class="row">
       <div class="span10 offset1">
-        <div style="width: auto; height: auto; background-color:#56D34C; padding:0 12px; text-align: center;">
+        <div style="width: auto; height: auto; background-color:#2C8C2E; padding:0 12px; text-align: center;">
           <h2 class="allcaps cream">
           <a href="http://www.whatwouldmolydeux.com/">Back</a>
           </h2>

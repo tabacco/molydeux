@@ -1,0 +1,25 @@
+.contact a:link { text-decoration:none; font-weight: bold; color: #ace227 }
+.contact a:visited { text-decoration:none; font-weight: bold;  color: #ace227 }
+.contact a:active { text-decoration:none; font-weight: bold;   color: #ace227 }
+.contact a:hover { text-decoration:none; border-bottom: 1px dotted;  font-weight: bold;  color: #ffffff }
+
+.contactwhite a:link { text-decoration:none; font-weight: bold; color: #ffffff }
+.contactwhite a:visited { text-decoration:none; font-weight: bold;  color: #ffffff }
+.contactwhite a:active { text-decoration:none; font-weight: bold;   color: #ffffff }
+.contactwhite a:hover { text-decoration:none; border-bottom: 1px dotted;  font-weight: bold;  color: #ffffff }
+
+.namewhite { text-decoration:none; font-weight: bold; color: #ffffff }
+
+.contactaaa a:link { text-decoration:none; font-weight: bold; color: #aaa }
+.contactaaa a:visited { text-decoration:none; font-weight: bold;  color: #aaa }
+.contactaaa a:active { text-decoration:none; font-weight: bold;   color: #aaa }
+.contactaaa a:hover { text-decoration:none; border-bottom: 1px dotted;  font-weight: bold;  color: #ffffff }
+
+.green {color: #ace227;}
+.green a {color: #ace227;}
+.green a:hover {color: #8dad2a; text-decoration:none;}
+.page {color: #EEE;}
+.page h1 {font-size: 14px; line-height: 27px;}
+.page h3 {font-size: 20px;}
+.page a {text-decoration:none;}
+.page p {font-size: 18px; font-weight: bold;}

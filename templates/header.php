@@ -2,7 +2,7 @@
 <html>
 <head>
 
-  <title>What Would Molydeux? Molyjam 2012</title>
+  <title>What Would Molydeux? Molyjam 2012<?= isset($page_title) ? (' > ' . $page_title) : '' ?></title>
 
   <link href="css/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css" />
   <link href="css/bootstrap-responsive.min.css" media="screen" rel="stylesheet" type="text/css" />

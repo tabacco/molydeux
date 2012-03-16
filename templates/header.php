@@ -23,5 +23,5 @@
     })();
   </script>
 </head>
-<body class="page" style="background-color: #000; margin: 0px;">
+<body class="page">
 

@@ -45,24 +45,30 @@
         </div>
       </div>
     </div>    
-    
+  
     <div class="row" id="locations">
       <div class="span5 offset1" id="sf">
         <h3><a href="https://www.facebook.com/events/343017505734553/">San Francisco</a></h3>
         <dl class="dl-horizontal">
-          <dt>Contact:</dt>
-            <dd><a href="mailto:molyjamsf@gmail.com">Email the team</a></dd>
-            <dd>Anna Kipnis <a href="http://www.twitter.com/doubleanna">@doubleanna</a></dd>
-            <dd>Patrick Klepek <a href="http://www.twitter.com/patrickklepek">@patrickklepek</a></dd>
-            <dd>Brandon Sheffield <a href="http://www.twitter.com/necrosofty">@necrosofty</a></dd>
-            <dd>Chris Remo <a href="http://www.twitter.com/chrisremo">@chrisremo</a></dd>
+            <dt>Anna Kipnis</dt>
+          <dd><a href="http://www.twitter.com/doubleanna">@doubleanna</a></dd>
+            <dt>Patrick Klepack</dt>
+          <dd><a href="http://www.twitter.com/patrickklepek">@patrickklepek</a></dd>
+            <dt>Brandon Sheffield</dt>
+          <dd><a href="http://www.twitter.com/necrosofty">@necrosofty</a></dd>
+            <dt>Chris Remo</dt>
+          <dd><a href="http://www.twitter.com/chrisremo">@chrisremo</a></dd>
+        <dt></dt>
+          <dd><a href="mailto:molyjamsf@gmail.com">Email the team</a></dd>
         </dl>
       </div>
       <div class="span5" id="nyc">
         <h3><a href="https://www.facebook.com/events/187720164675020/">NYC</a></h3>
         <dl class="dl-horizontal">
-          <dt>Contact: </dt><dd><a href="mailto: molyjamny@gmail.com">Email the team</a></dd>
-          <dd>Ben Johnson <a href="http://www.twitter.com/GameDesignerBen">@GameDesignerBen</a></dd>
+          <dt>Ben Johnson</dt>
+        <dd><a href="http://www.twitter.com/GameDesignerBen">@GameDesignerBen</a></dd>
+          <dt></dt>
+        <dd><a href="mailto: molyjamny@gmail.com">Email the team</a></dd>
         </dl>
       </div>
     </div> 
@@ -70,15 +76,17 @@
       <div class="span5 offset1" id="boston">
         <h3><a href="https://www.facebook.com/events/411836675509369/">Boston</a></h3>
         <dl class="dl-horizontal">
-          <dt>Contact:</dt><!-- <dd><a href="mailto:">Email the team</a></dd> -->
-          <dd>Dean Tate <a href="http://www.twitter.com/IamDeanTate">@IamDeanTate</a>
+          <dt>Dean Tate</dt>
+        <dd><a href="http://www.twitter.com/IamDeanTate">@IamDeanTate</a>
         </dl>
       </div>
       <div class="span5" id="seattle">
         <h3><a href="https://www.facebook.com/events/259071207514213">Seattle</a></h3>
         <dl class="dl-horizontal">
-          <dt>Contact:</dt><dd><a href="mailto:molyjamseattle@gmail.com">Email the team</a></dd>
-          <dd>Collin Moore <a href="http://www.twitter.com/shinyidol">@shinyidol</a></dd>
+          <dt>Collin Moore</dt>
+        <dd><a href="http://www.twitter.com/shinyidol">@shinyidol</a></dd>
+          <dt></dt>
+        <dd><a href="mailto:molyjamseattle@gmail.com">Email the team</a></dd>
         </dl>
       </div>
     </div>
@@ -86,16 +94,17 @@
       <div class="span5 offset1" id="montreal">
         <h3><a href="https://www.facebook.com/events/274617842613476/">Montreal, Canada</a></h3>
         <dl class="dl-horizontal">
-          <dt>Contact:</dt><!-- <dd><a href="mailto:">Email the team</a></dd> -->
-          <dd>Renaud B&eacute;dard <a href="http://www.twitter.com/renaudbedard">@renaudbedard</a></dd>
-            
+          <dt>Renaud B&eacute;dard</dt>
+        <dd><a href="http://www.twitter.com/renaudbedard">@renaudbedard</a></dd>
         </dl>
       </div>
       <div class="span4" id="brigton">
         <h3><a href="https://www.facebook.com/events/325788600811520/">Brighton, UK</a></h3>
         <dl class="dl-horizontal">
-          <dt>Contact:</dt><dd><a href="mailto:molyjambton@gmail.com">Email the team</a></dd>
-          <dd>Edd Parris <a href="http://www.twitter.com/empika">@empika</a></dd>
+          <dt>Edd Parris</dt>
+        <dd><a href="http://www.twitter.com/empika">@empika</a></dd>
+          <dt></dt>
+        <dd><a href="mailto:molyjambton@gmail.com">Email the team</a></dd>
         </dl>
       </div>
     </div>
@@ -103,15 +112,18 @@
       <div class="span4 offset1" id="melbourne">
         <h3><a href="https://www.facebook.com/events/249349158493327/">Melbourne, Australia</a></h3>
         <dl class="dl-horizontal">
-          <dt>Contact:</dt><dd><a href="mailto:molyjamaus@gmail.com">Email the team</a></dd>
-          <dd>Andrew Brophy <a href="http://www.twitter.com/andrewbrophy">@andrewbrophy</a></dd>
-          <dd>Harry Lee <a href="http://www.twitter.com/andrewbrophy">@leehs</a></dd>
+          <dt>Andrew Brophy</dt>
+        <dd><a href="http://www.twitter.com/andrewbrophy">@andrewbrophy</a></dd>
+          <dt>Harry Lee</dt>
+        <dd><a href="http://www.twitter.com/andrewbrophy">@leehs</a></dd>
+          <dt></dt>
+        <dd><a href="mailto:molyjamaus@gmail.com">Email the team</a></dd>
         </dl>
       </div>
       <div class="span5">
 
       </div>
     </div> 
-    
+  
   </div>
 <? require('templates/footer.php'); ?>

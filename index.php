@@ -52,7 +52,7 @@
         <dl class="dl-horizontal">
             <dt>Anna Kipnis</dt>
           <dd><a href="http://www.twitter.com/doubleanna">@doubleanna</a></dd>
-            <dt>Patrick Klepack</dt>
+            <dt>Patrick Klepek</dt>
           <dd><a href="http://www.twitter.com/patrickklepek">@patrickklepek</a></dd>
             <dt>Brandon Sheffield</dt>
           <dd><a href="http://www.twitter.com/necrosofty">@necrosofty</a></dd>

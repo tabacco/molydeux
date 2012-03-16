@@ -19,7 +19,34 @@
 .green a {color: #ace227;}
 .green a:hover {color: #8dad2a; text-decoration:none;}
 .page {color: #EEE;}
-.page h1 {font-size: 14px; line-height: 27px;}
-.page h3 {font-size: 20px;}
+/*.page h1 {font-size: 14px; line-height: 27px;}*/
+/*.page h3 {font-size: 20px;}*/
 .page a {text-decoration:none;}
 .page p {font-size: 18px; font-weight: bold;}
+
+/* This will scale down images that are too big for their containers */
+img {
+	max-width: 100%;
+	height: auto;
+	width: auto\9; /* ie8 */
+	}
+	
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Open Sans', sans-serif;
+	}
+	
+/*h1 {font-size: 	2.0em;	}
+h2 {font-size: 	1.6em;	}
+h3 {font-size: 	1.4em;	}
+h4 {font-size: 	1.2em;	}
+h5 {font-size: 	1.1em;	}
+h6 {font-size: 	1em;	}*/
+
+.allcaps {
+	text-transform: uppercase;
+	}
+
+.cream { color: #f4f3e0; }
+.cream a { color: #fff; }
+.cream a:hover { text-decoration: none; }
+

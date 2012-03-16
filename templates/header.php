@@ -7,6 +7,8 @@
   <link href="css/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css" />
   <link href="css/bootstrap-responsive.min.css" media="screen" rel="stylesheet" type="text/css" />
   <link href="css/style.css" media="screen" rel="stylesheet" type="text/css" />
+  <link rel="shortcut icon" href="img/favicon.ico" />
+  <link rel="apple-touch-icon" href="img/apple-touch-icon.png"/>
 
   <!--This is a link to Google's Web Fonts for Open Sans -->  
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:700' rel='stylesheet' type='text/css'>  

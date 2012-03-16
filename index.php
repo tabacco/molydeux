@@ -68,7 +68,7 @@
           <dt>Andrew Brophy</dt>
         <dd><a href="http://www.twitter.com/andrewbrophy">@andrewbrophy</a></dd>
           <dt>Harry Lee</dt>
-        <dd><a href="http://www.twitter.com/leehs">@leehs</a></dd>
+        <dd><a href="https://twitter.com/#!/leehsl">@leehsl</a></dd>
           <dt></dt>
         <dd><a href="mailto:molyjamaus@gmail.com">Email the team</a></dd>
         </dl>

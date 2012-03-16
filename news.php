@@ -12,7 +12,7 @@
     <div class="row" id="announcements">
       <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
-          <h3>
+          <h3 class="green">
           3/15/2012 - Hosting Your Own Molyjam         
           </h3>        
         </div>
@@ -24,7 +24,7 @@
       </div>
       <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
-          <h3>
+          <h3 class="green">
           3/15/2012 - Phasing Out Google Doc          
           </h3>        
         </div>
@@ -63,7 +63,7 @@
     <div class="row">
       <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
-          <h3>
+          <h3 class="green">
           Are there any rules for this event?        
           </h3>        
         </div>
@@ -77,7 +77,7 @@
     <div class="row">
       <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
-          <h3>
+          <h3 class="green">
           Is everyone just working from one idea or can each team pick an idea they like?        
           </h3>        
         </div>
@@ -91,7 +91,7 @@
     <div class="row">
       <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
-          <h3>
+          <h3 class="green">
           What is the schedule for Molyjam?        
           </h3>        
         </div>
@@ -101,11 +101,25 @@
           <h4>Friday, March 30th, there will be a meetup at your local venue, where you can meet with the other devs at the jam, hang out, have drinks, form up into teams, discuss some ideas. There may likely be some announcements at this time. Saturday through Sunday afternoon, everyone can make the games.  Sunday night, April 1st, there will be a games festival at your local venue.  All precise hours are TBD.</h4>
         </div>
       </div>
-    </div> 
+    </div>
     <div class="row">
       <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
-          <h3>
+          <h3 class="green">
+          Where do I go? What time?
+          </h3>        
+        </div>
+      </div>
+      <div class="span10 offset1">
+        <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
+          <h4>Check with your local <a href="https://www.facebook.com/events/343017505734553/">Facebook invite</a> where the venue will be and at what time the event will start.</h4>
+        </div>
+      </div>
+    </div>  
+    <div class="row">
+      <div class="span10 offset1"> 
+        <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
+          <h3 class="green">
           Do I have to spend my entire weekend at the local venue or can I work from home?        
           </h3>        
         </div>
@@ -119,7 +133,7 @@
     <div class="row">
       <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
-          <h3>
+          <h3 class="green">
           I don't have any programming skills.  Am I doomed?        
           </h3>        
         </div>
@@ -133,7 +147,7 @@
     <div class="row">
       <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
-          <h3>
+          <h3 class="green">
           Will there be a way to participate remotely?        
           </h3>        
         </div>
@@ -147,7 +161,7 @@
     <div class="row">
       <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
-          <h3>
+          <h3 class="green">
           Will the event be live-streamed?        
           </h3>        
         </div>

@@ -40,8 +40,8 @@
     <div class="row">
       <div class="span10 offset1">
         <div style="width: auto; height: auto; background-color:#1f2325; padding:10px 12px; margin-bottom: 10px;">
-        <h3>For the latest news, visit <a href="http://molydeux.tumblr.com">molydeux.tumblr.com</a> or follow <a href="http://www.twitter.com/molyjam">@molyjam</a> on Twitter.</h2>
-        <h3 class="green"><a href="#locations">Sign up on Facebook now</a></h2>
+        <h3>For the latest news, visit <a href="http://molydeux.tumblr.com">molydeux.tumblr.com</a> or follow <a href="http://www.twitter.com/molyjam">@molyjam</a> on Twitter.</h3>
+        <h3 class="green"><a href="#locations">Sign up on Facebook now</a></h3>
         </div>
       </div>
     </div>    

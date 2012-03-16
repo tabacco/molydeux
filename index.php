@@ -68,7 +68,7 @@
           <dt>Andrew Brophy</dt>
         <dd><a href="http://www.twitter.com/andrewbrophy">@andrewbrophy</a></dd>
           <dt>Harry Lee</dt>
-        <dd><a href="https://twitter.com/#!/leehsl">@leehsl</a></dd>
+        <dd><a href="https://twitter.com/leehsl">@leehsl</a></dd>
           <dt></dt>
         <dd><a href="mailto:molyjamaus@gmail.com">Email the team</a></dd>
         </dl>
@@ -132,7 +132,7 @@
     </div>
     <div class="row">
       <div class="span5 offset1" id="la">
-        <h3><a href="https://www.facebook.com/events/411836675509369/">Los Angeles</a></h3>
+        <h3><a href="https://www.facebook.com/events/321794224546563/">Los Angeles</a></h3>
         <dl class="dl-horizontal">
           <dt>Holden Link</dt>
         <dd><a href="http://www.twitter.com/HoldenLink">@HoldenLink</a>

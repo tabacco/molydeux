@@ -13,13 +13,25 @@
 	  <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
           <h3 class="green">
+          3/16/2012 - Molyjam Time has been determined!         
+          </h3>        
+        </div>
+      </div>
+      <div class="span10 offset1">
+        <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
+          <h4>The jam will commence at 7pm (19:00) local time on Friday, March 30th and all work on games must conclude at 7pm (19:00) local time on Sunday, April 1st. Immediately following will be a game festival at your local venue, where you'll have an opportunity to show off your awesome game and check out what other teams have made.</h4>
+        </div>
+      </div>
+	  <div class="span10 offset1"> 
+        <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
+          <h3 class="green">
           3/16/2012 - New Cities Added!         
           </h3>        
         </div>
       </div>
       <div class="span10 offset1">
         <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
-          <h4><a href="https://www.facebook.com/events/273233436088258/">London</a>, <a href="https://www.facebook.com/events/321794224546563/">Los Angeles</a>, <a href="https://www.facebook.com/events/305335546201015/">Orlando</a>, <a href="https://www.facebook.com/events/340440959339334/">Sydney</a> have now been added!</h4>
+          <h4><a href="https://www.facebook.com/events/273233436088258/">London</a>, <a href="https://www.facebook.com/events/321794224546563/">Los Angeles</a>, <a href="https://www.facebook.com/events/305335546201015/">Orlando</a>, <a href="https://www.facebook.com/events/340440959339334/">Sydney</a>, <a href="https://www.facebook.com/events/355679211137575/">Las Vegas</a> have now been added!</h4>
         </div>
       </div>
       <div class="span10 offset1"> 
@@ -110,7 +122,7 @@
       </div>
       <div class="span10 offset1">
         <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
-          <h4>Friday, March 30th, there will be a meetup at your local venue, where you can meet with the other devs at the jam, hang out, have drinks, form up into teams, discuss some ideas. There may likely be some announcements at this time. Saturday through Sunday afternoon, everyone can make the games.  Sunday night, April 1st, there will be a games festival at your local venue.  All precise hours are TBD.</h4>
+          <h4>The jam will commence Friday, March 30th, at 7pm (19:00) local time. Work on all games will conclude on Sunday, April 1st, at 7pm (19:00) local time.  This will be followed by a festival of the amazing games you guys just made.</h4>
         </div>
       </div>
     </div>
@@ -118,13 +130,13 @@
       <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
           <h3 class="green">
-          Where do I go? What time?
+          Where do I go?
           </h3>        
         </div>
       </div>
       <div class="span10 offset1">
         <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
-          <h4>Check with your local <a href="https://www.facebook.com/events/343017505734553/">Facebook invite</a> where the venue will be and at what time the event will start.</h4>
+          <h4>Check with your local <a href="https://www.facebook.com/events/343017505734553/">Facebook invite</a> where the venue will be.</h4>
         </div>
       </div>
     </div>  
@@ -138,7 +150,7 @@
       </div>
       <div class="span10 offset1">
         <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
-          <h4>We encourage you to come to your local event on Friday, March 30th so that you can meet other participating devs, hang out, have drinks, form up into teams. You can work from home, if you wish, the rest of the time, but please do attend the fest on Sunday night, where you can show off your game and have a chance to check out what other teams have made.  All precise hours are TBD.</h4>
+          <h4>We encourage you to come to your local event on Friday, March 30th for the kickoff so that you can meet other participating devs and form up into teams if you still need to. You can work from home, if you wish, the rest of the time, but please do attend the fest on Sunday night, where you can show off your game and have a chance to check out what other teams have made.</h4>
         </div>
       </div>
     </div>  

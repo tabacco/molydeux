@@ -179,11 +179,25 @@
         </div>
       </div>
       <div class="span10 offset1">
-        <div style="width: auto; height: auto; padding-top:12px; padding-bottom:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
+        <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
           <h4>We are presently working this out.</h4>
         </div>
       </div>
     </div>    
+    <div class="row">
+      <div class="span10 offset1"> 
+        <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
+          <h3 class="green">
+          What is up with that green square?       
+          </h3>        
+        </div>
+      </div>
+      <div class="span10 offset1">
+        <div style="width: auto; height: auto; padding-top:12px; padding-bottom:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
+          <h4>It is in reference to <a href="https://twitter.com/#!/pmolyneux/status/179218530196135936">this</a>.</h4>
+        </div>
+      </div>
+    </div>      
     <div class="row">
       <div class="span10 offset1">
         <div style="width: auto; height: auto; background-color:#2C8C2E; padding:0 12px; text-align: center;">

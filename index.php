@@ -119,6 +119,7 @@
         <dl class="dl-horizontal">
           <dt>Dean Tate</dt>
         <dd><a href="http://www.twitter.com/IamDeanTate">@IamDeanTate</a>
+        <dd><a href="mailto:molyjamboston@gmail.com">Email the team</a></dd>
         </dl>
       </div>
       <div class="span4" id="montreal">

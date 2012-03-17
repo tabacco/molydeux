@@ -139,8 +139,26 @@
         <dd><a href="mailto:molyjamla@gmail.com">Email the team</a></dd>
         </dl>
       </div>
-      <div class="span4">        
+      <div class="span4" id="sydney"> 
+		<h3><a href="https://www.facebook.com/events/340440959339334/">Sydney, Australia</a></h3>
+        <dl class="dl-horizontal">
+          <dt>Adrian Vergara</dt>
+        <dd><a href="https://twitter.com/LevelUpAdrian">@LevelUpAdrian</a></dd>
+        <dd><a href="mailto:molyjamsydney@gmail.com">Email the team</a></dd>        
+        </dl>       
       </div>      
     </div>   
+    <div class="row">
+      <div class="span5 offset1" id="orlando">
+        <h3><a href="https://www.facebook.com/events/305335546201015/">Orlando</a></h3>
+        <dl class="dl-horizontal">
+          <dt>Zane Wolfgang Pickett</dt>
+        <dd><a href="https://twitter.com/SirW0lfgang">@SirW0lfgang</a>
+        <dd><a href="mailto:molyjamorlando@gmail.com">Email the team</a></dd>
+        </dl>
+      </div>
+      <div class="span4"> 		     
+      </div>      
+    </div>     
   </div>
 <? require('templates/footer.php'); ?>

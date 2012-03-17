@@ -10,6 +10,18 @@
       </div>
     </div>
     <div class="row" id="announcements">
+	  <div class="span10 offset1"> 
+        <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
+          <h3 class="green">
+          3/16/2012 - New Cities Added!         
+          </h3>        
+        </div>
+      </div>
+      <div class="span10 offset1">
+        <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
+          <h4><a href="https://www.facebook.com/events/273233436088258/">London</a>, <a href="https://www.facebook.com/events/321794224546563/">Los Angeles</a>, <a href="https://www.facebook.com/events/305335546201015/">Orlando</a>, <a href="https://www.facebook.com/events/340440959339334/">Sydney</a> have now been added!  If there is no molyjam in your city yet and you would like to host one, please <a href="mailto: molyjamsf@gmail.com">contact us</a>.</h4>
+        </div>
+      </div>
       <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
           <h3 class="green">

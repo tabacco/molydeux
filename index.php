@@ -157,7 +157,13 @@
         <dd><a href="mailto:molyjamorlando@gmail.com">Email the team</a></dd>
         </dl>
       </div>
-      <div class="span4"> 		     
+      <div class="span4" id="vegas"> 	
+		<h3><a href="https://www.facebook.com/events/355679211137575/">Las Vegas</a></h3>
+        <dl class="dl-horizontal">
+          <dt>Chris Ainsworth</dt>
+        <dd><a href="https://twitter.com/driph">@driph</a></dd>
+        <dd><a href="mailto:molyjamlv@gmail.com">Email the team</a></dd>        
+        </dl> 	     
       </div>      
     </div>     
   </div>

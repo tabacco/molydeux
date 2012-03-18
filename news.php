@@ -13,6 +13,18 @@
 	  <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
           <h3 class="green">
+          3/17/2012 - Even more cities!         
+          </h3>        
+        </div>
+      </div>
+      <div class="span10 offset1">
+        <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
+          <h4><a href="http://www.facebook.com/events/134077380052626/">Munich, Germany</a> and <a href="https://www.facebook.com/events/315424058512362/">Lisbon, Portugal</a> are now hosting their own Molyjams.</h4>
+        </div>
+      </div>
+	  <div class="span10 offset1"> 
+        <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
+          <h3 class="green">
           3/16/2012 - Molyjam Time has been determined!         
           </h3>        
         </div>

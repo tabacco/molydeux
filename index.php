@@ -184,6 +184,18 @@
         <dd><a href="mailto:molyjamlisbon@gmail.com">Email the team</a></dd>        
         </dl>		 	     
       </div>      
-    </div>    
+    </div>
+    <div class="row">
+      <div class="span5 offset1" id="">
+        <h3><a href="https://www.facebook.com/events/306886839379159/">Phoenix</a></h3>
+        <dl class="dl-horizontal">
+          <dt>Tyler Coleman</dt>
+        <dd><a href="https://twitter.com/TylerMakesGames">@TylerMakesGames</a></dd>
+        <dd><!-- a href="mailto:molyjamlv@gmail.com" -->Email the team<!-- /a --></dd>        
+        </dl>
+      </div>
+      <div class="span4"> 		 	     
+      </div>      
+    </div>
   </div>
 <? require('templates/footer.php'); ?>

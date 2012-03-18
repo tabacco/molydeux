@@ -186,12 +186,12 @@
       </div>      
     </div>
     <div class="row">
-      <div class="span5 offset1" id="">
+      <div class="span5 offset1" id="phoenix">
         <h3><a href="https://www.facebook.com/events/306886839379159/">Phoenix</a></h3>
         <dl class="dl-horizontal">
           <dt>Tyler Coleman</dt>
         <dd><a href="https://twitter.com/TylerMakesGames">@TylerMakesGames</a></dd>
-        <dd><!-- a href="mailto:molyjamlv@gmail.com" -->Email the team<!-- /a --></dd>        
+        <dd><a href="mailto:molydeuxphoenix@gmail.com">Email the team</a></dd>        
         </dl>
       </div>
       <div class="span4"> 		 	     

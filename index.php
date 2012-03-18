@@ -158,14 +158,32 @@
         <dd><a href="mailto:molyjamorlando@gmail.com">Email the team</a></dd>
         </dl>
       </div>
-      <div class="span4" id="vegas"> 	
-		<h3><a href="https://www.facebook.com/events/355679211137575/">Las Vegas</a></h3>
+      <div class="span4" id="munich"> 	
+		<h3><a href="https://www.facebook.com/events/134077380052626/">Munich, Germany</a></h3>
+        <dl class="dl-horizontal">
+          <dt>Mustafa K. Isik</dt>
+        <dd><a href="https://twitter.com/codesurgeon">@codesurgeon</a></dd>
+        <dd><a href="mailto:molyjammunich@codesurgeon.com">Email the team</a></dd>        
+        </dl>	     
+      </div>      
+    </div>
+    <div class="row">
+      <div class="span5 offset1" id="vegas">
+        <h3><a href="https://www.facebook.com/events/355679211137575/">Las Vegas</a></h3>
         <dl class="dl-horizontal">
           <dt>Chris Ainsworth</dt>
         <dd><a href="https://twitter.com/driph">@driph</a></dd>
         <dd><a href="mailto:molyjamlv@gmail.com">Email the team</a></dd>        
-        </dl> 	     
+        </dl>
+      </div>
+      <div class="span4" id="lisbon"> 	
+        <h3><a href="https://www.facebook.com/events/315424058512362/">Lisbon, Portugal</a></h3>
+        <dl class="dl-horizontal">
+          <dt>Leandro Reis</dt>
+        <dd><a href="https://twitter.com/Leandro_S_R">@Leandro_S_R</a></dd>
+        <dd><a href="mailto:molyjamlisbon@gmail.com">Email the team</a></dd>        
+        </dl>		 	     
       </div>      
-    </div>     
+    </div>    
   </div>
 <? require('templates/footer.php'); ?>

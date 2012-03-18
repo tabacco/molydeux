@@ -19,7 +19,7 @@
       </div>
       <div class="span10 offset1">
         <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
-          <h4><a href="http://www.facebook.com/events/134077380052626/">Munich, Germany</a> and <a href="https://www.facebook.com/events/315424058512362/">Lisbon, Portugal</a> are now hosting their own Molyjams.</h4>
+          <h4><a href="http://www.facebook.com/events/134077380052626/">Munich, Germany</a>, <a href="https://www.facebook.com/events/315424058512362/">Lisbon, Portugal</a>, <a href="https://www.facebook.com/events/306886839379159/">Phoenix, US</a> are now hosting their own Molyjams.</h4>
         </div>
       </div>
 	  <div class="span10 offset1"> 

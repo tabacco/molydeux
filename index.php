@@ -40,7 +40,7 @@
     <div class="row">
       <div class="span10 offset1">
         <div style="width: auto; height: auto; background-color:#1f2325; padding:10px 12px; margin-bottom: 10px;">
-        <h3>For the latest updates, visit our <a href="http://whatwouldmolydeux.com/news.php">news page</a>, follow <a href="http://www.twitter.com/molyjam">@molyjam</a> on Twitter, or join us for some chat on freenode: <a href="http://webchat.freenode.net/?channels=#molyjam">#MolyJam</a>.</h3>
+        <h3>For the latest updates, visit our <a href="http://whatwouldmolydeux.com/news.php">news page</a>, follow <a href="http://www.twitter.com/molyjam">@molyjam</a> on Twitter, or join us for some chat on freenode: <a href="http://webchat.freenode.net/?channels=#molyjam">#MolyJam</a>. Also there is a <a href="http://batchgeo.com/map/090d1bde6ce8cdb9cc0e129ff0ecd829">map</a>.</h3>
         <h3 class="green"><a href="#locations">Sign up on Facebook now</a></h3>
         </div>
       </div>

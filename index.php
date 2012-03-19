@@ -199,7 +199,7 @@
         <dl class="dl-horizontal">
           <dt>Adam Proctor</dt>
         <dd><a href="https://twitter.com/ukengames">@ukengames</a></dd>
-        <dd><!-- a href="mailto:" -->Email the team<!-- /a --></dd>        
+        <dd><a href="mailto:molyjamtoronto@gmail.com">Email the team</a></dd>        
         </dl>		 	     
       </div>      
     </div>

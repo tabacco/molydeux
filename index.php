@@ -194,7 +194,13 @@
         <dd><a href="mailto:molydeuxphoenix@gmail.com">Email the team</a></dd>        
         </dl>
       </div>
-      <div class="span4"> 		 	     
+      <div class="span4" id="Toronto">
+        <h3><a href="https://www.facebook.com/events/392273507467116/">Toronto, Canada</a></h3>
+        <dl class="dl-horizontal">
+          <dt>Adam Proctor</dt>
+        <dd><a href="https://twitter.com/ukengames">@ukengames</a></dd>
+        <dd><!-- a href="mailto:" -->Email the team<!-- /a --></dd>        
+        </dl>		 	     
       </div>      
     </div>
   </div>

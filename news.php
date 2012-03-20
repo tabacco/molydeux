@@ -10,6 +10,20 @@
       </div>
     </div>
     <div class="row" id="announcements">
+     
+      <div class="span10 offset1"> 
+        <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
+          <h3 class="green">
+          3/19/2012 - Toronto Location added       
+          </h3>        
+        </div>
+      </div>
+      <div class="span10 offset1">
+        <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
+          <h4><a href="http://www.facebook.com/events/392273507467116/">Toronto</a> has been added, bringing the total up to 16 cities.</h4>
+        </div>
+      </div>
+      
 	  <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
           <h3 class="green">

@@ -213,5 +213,25 @@
         </dl>
       </div>
     </div>
+    <div class="row">
+      <div class="span4" id="helsinki">
+        <h3><a href="http://www.facebook.com/events/269620596450287/">Helsinki, Finland</a></h3>
+        <dl class="dl-horizontal">
+          <dt>Petri Purho</dt>
+        <dd><a href="https://twitter.com/paulmcgg">@PetriPurho</a></dd>
+        <dd><a href="mailto:molyjamhelsinki@gmail.com">Email the team</a></dd>        
+        </dl>
+      </div>
+    </div>
+    <div class="row">
+      <div class="span4" id="Monterrey">
+        <h3><a href="http://www.facebook.com/#!/events/319433411452017/">Monterrey, México</a></h3>
+        <dl class="dl-horizontal">
+          <dt>Mike Olvera</dt>
+        <dd><a href="https://twitter.com/Mike_alebrije">@Mike_alebrije</a></dd>
+        <dd><a href="mailto:miguel.olvera@alebrije-estudios.com">Email the team</a></dd>        
+        </dl>		 	     
+      </div>
+    </div> 
   </div>
 <? require('templates/footer.php'); ?>

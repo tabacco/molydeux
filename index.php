@@ -183,7 +183,7 @@
         <dd><a href="mailto:molydeuxphoenix@gmail.com">Email the team</a></dd>
       </dl>
       </div>
-    <div class="span4" id="Toronto">
+    <div class="span4" id="toronto">
         <h3><a href="https://www.facebook.com/events/392273507467116/">Toronto, Canada</a></h3>
         <dl class="dl-horizontal">
         <dt>Adam Proctor</dt>
@@ -193,7 +193,7 @@
       </div>
   </div>
     <div class="row">
-    <div class="span5 offset1"> </div>
+    <div class="span5 offset1">&nbsp;</div>
     <div class="span4" id="dundee">
         <h3><a href="http://www.facebook.com/events/370481596319539/">Dundee, Scotland</a></h3>
         <dl class="dl-horizontal">
@@ -204,9 +204,9 @@
       </div>
   </div>
     <div class="row">
-    <div class="span5 offset1"> </div>
-    <div class="span4" id="Monterrey">
-        <h3><a href="http://www.facebook.com/#!/events/319433411452017/">Monterrey, México</a></h3>
+    <div class="span5 offset1">&nbsp;</div>
+    <div class="span4" id="monterrey">
+        <h3><a href="http://www.facebook.com/#!/events/319433411452017/">Monterrey, Mexico</a></h3>
         <dl class="dl-horizontal">
         <dt>Mike Olvera</dt>
         <dd><a href="https://twitter.com/Mike_alebrije">@Mike_alebrije</a></dd>

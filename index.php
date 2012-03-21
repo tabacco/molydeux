@@ -203,5 +203,15 @@
         </dl>		 	     
       </div>      
     </div>
+    <div class="row">
+      <div class="span5 offset1" id="dundee">
+        <h3><a href="http://www.facebook.com/events/370481596319539/">Dundee, Scotland</a></h3>
+        <dl class="dl-horizontal">
+          <dt>Paul McGee</dt>
+        <dd><a href="https://twitter.com/paulmcgg">@PaulMcGG</a></dd>
+        <dd><a href="mailto:molydundee@gmail.com">Email the team</a></dd>        
+        </dl>
+      </div>
+    </div>
   </div>
 <? require('templates/footer.php'); ?>

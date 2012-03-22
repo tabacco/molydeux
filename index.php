@@ -200,8 +200,7 @@
       </div>
   </div>
     <div class="row">
-    <div class="span5 offset1">&nbsp;</div>
-    <div class="span4" id="dundee">
+    <div class="span5 offset1" id="dundee">
         <h3><a href="http://www.facebook.com/events/370481596319539/">Dundee, Scotland</a></h3>
         <dl class="dl-horizontal">
         <dt>Paul McGee</dt>
@@ -209,9 +208,6 @@
         <dd><a href="mailto:molydundee@gmail.com">Email the team</a></dd>
       </dl>
       </div>
-  </div>
-    <div class="row">
-    <div class="span5 offset1">&nbsp;</div>
     <div class="span4" id="monterrey">
         <h3><a href="http://www.facebook.com/#!/events/319433411452017/">Monterrey, Mexico</a></h3>
         <dl class="dl-horizontal">

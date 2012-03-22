@@ -27,6 +27,13 @@
       </div>
       </div>
   </div>
+  <div class="row">
+    <div class="span10 offset1">
+        <div style="width: auto; height: auto; background-color:#006600; padding:0 12px; text-align: center;">
+        <h2 class="allcaps cream"><div id="countbox"></div></h2>
+      </div>
+      </div>
+  </div>
     <div class="row">
     <div class="span10 offset1">
         <div style="width: auto; height: auto; background-color:#1f2325; padding:10px 12px; margin-bottom: 10px;">

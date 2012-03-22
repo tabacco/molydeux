@@ -156,6 +156,20 @@
       <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
           <h3 class="green">
+          Who owns the games that are made?
+          </h3>        
+        </div>
+      </div>
+      <div class="span10 offset1">
+        <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
+          <h4>The teams who made the games own the games. We will have a way for you to submit an executable to us so that others can check out what you've made, and we encourage you to do so, but it's your choice whether to send it to us. We will not ask you for source code or game assets. If you choose to release the game commercially, make sure the engine licenses are all squared away, because any licenses provided at the jam may be temporary.</h4>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="span10 offset1"> 
+        <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
+          <h3 class="green">
           Where do I go?
           </h3>        
         </div>

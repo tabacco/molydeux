@@ -205,7 +205,7 @@
       <dl class="dl-horizontal">
         <dt>Amna Nadim</dt>
         <dd><a href="https://twitter.com/mochasips">@mochasips</a></dd>
-        <dd><a href="mailto:molyjamtx@gmail.com">Email the team</a></dd>
+        <dd><a href="mailto:molyjamatx@gmail.com">Email the team</a></dd>
       </dl>
     </div>
     <div class="span4" id="monterrey">
@@ -213,7 +213,7 @@
       <dl class="dl-horizontal">
         <dt>Mike Olvera</dt>
         <dd><a href="https://twitter.com/Mike_alebrije">@Mike_alebrije</a></dd>
-        <dd><a href="mailto:miguel.olvera@alebrije-estudios.com">Email the team</a></dd>
+        <dd><a href="mailto:molyjammty@gmail.com">Email the team</a></dd>
       </dl>
     </div>
   </div>
@@ -223,7 +223,7 @@
         <dl class="dl-horizontal">
 	      <dt>John Meister</dt>
           <dd><a href="https://twitter.com/RunJumpDev">@RunJumpDev</a></dd>
-          <dd><a href="mailto:jmeister@runjumpdev.com">Email the team</a></dd>
+          <dd><a href="mailto:molyjam@runjumpdev.com">Email the team</a></dd>
         </dl>
     </div>
     <div class="span4" id="dundee">
@@ -248,7 +248,10 @@
       <h3><a href="https://www.facebook.com/events/327359410657720/">Tel Aviv, Israel</a></h3>
       <dl class="dl-horizontal">
         <dt>Eli Brody</dt>
-        <dd><a href="https://twitter.com/elibrody">@elibrody</a></dd>        
+        <dd><a href="https://twitter.com/elibrody">@elibrody</a></dd>
+        <dt>Yuval Sapir</dt>
+        <dd><a href="https://twitter.com/yuvalsapir">@yuvalsapir</a></dd>  
+        <dd><a href="mailto:molyjamta@gmail.com">Email the team</a></dd>                      
       </dl>
     </div>		
   </div>

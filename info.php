@@ -32,7 +32,7 @@
         <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">
         <h4>Twitter is our main method of external communication:</h4>
         <h4> <a href="https://twitter.com/#!/molyjam">@MolyJam</a> </h4>
-        <h4>#MolyJam2012</h4>
+        <h4><a href="https://twitter.com/#!/search/%23Molyjam2012">#MolyJam2012</a></h4>
       </div>
       </div>
     <div class="span10 offset1">
@@ -52,7 +52,7 @@
       </div>
     <div class="span10 offset1">
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">
-        <h3 class="green"> T-Shirts</h3>
+        <h3 class="green">T-Shirts</h3>
       </div>
       </div>
     <div class="span10 offset1">

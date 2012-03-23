@@ -201,7 +201,7 @@
   </div>
   <div class="row">
     <div class="span5 offset1" id="austin">
-      <h3><a href="http://www.facebook.com/events/396662183695103/">Austin</a></h3>
+      <h3><a href="https://www.facebook.com/events/396662183695103/">Austin</a></h3>
       <dl class="dl-horizontal">
         <dt>Amna Nadim</dt>
         <dd><a href="https://twitter.com/mochasips">@mochasips</a></dd>
@@ -209,7 +209,7 @@
       </dl>
     </div>
     <div class="span4" id="monterrey">
-      <h3><a href="http://www.facebook.com/#!/events/319433411452017/">Monterrey, Mexico</a></h3>
+      <h3><a href="https://www.facebook.com/#!/events/319433411452017/">Monterrey, Mexico</a></h3>
       <dl class="dl-horizontal">
         <dt>Mike Olvera</dt>
         <dd><a href="https://twitter.com/Mike_alebrije">@Mike_alebrije</a></dd>
@@ -219,7 +219,7 @@
   </div>
   <div class="row">
     <div class="span5 offset1" id="lexington">
-      <h3><a href="http://www.facebook.com/events/329487143774164/">Lexington</a></h3>
+      <h3><a href="https://www.facebook.com/events/329487143774164/">Lexington</a></h3>
         <dl class="dl-horizontal">
 	      <dt>John Meister</dt>
           <dd><a href="https://twitter.com/RunJumpDev">@RunJumpDev</a></dd>
@@ -227,7 +227,7 @@
         </dl>
     </div>
     <div class="span4" id="dundee">
-      <h3><a href="http://www.facebook.com/events/370481596319539/">Dundee, Scotland</a></h3>
+      <h3><a href="https://www.facebook.com/events/370481596319539/">Dundee, Scotland</a></h3>
       <dl class="dl-horizontal">
          <dt>Paul McGee</dt>
          <dd><a href="https://twitter.com/paulmcgg">@PaulMcGG</a></dd>
@@ -238,13 +238,19 @@
   <div class="row">
     <div class="span5 offset1" id="malmo">
 	  <h3><a href="https://www.facebook.com/events/252614434828906/">Malmö, Sweden</a></h3>
-        <dl class="dl-horizontal">
-          <dt>Erik Sjöblom</dt>
-          <dd><a href="https://twitter.com/ErikSjoblom">@ErikSjoblom</a></dd>
-          <dd><a href="mailto:molyjammalmo@gmail.com">Email the team</a></dd>
-        </dl>
+      <dl class="dl-horizontal">
+        <dt>Erik Sjöblom</dt>
+        <dd><a href="https://twitter.com/ErikSjoblom">@ErikSjoblom</a></dd>
+        <dd><a href="mailto:molyjammalmo@gmail.com">Email the team</a></dd>
+      </dl>
     </div>
-    <div class="span4" id="christchurch"></div>
+    <div class="span4" id="christchurch">
+      <h3><a href="https://www.facebook.com/events/327359410657720/">Tel Aviv, Israel</a></h3>
+      <dl class="dl-horizontal">
+        <dt>Eli Brody</dt>
+        <dd><a href="https://twitter.com/elibrody">@elibrody</a></dd>        
+      </dl>
+    </div>		
   </div>
 </div>
 <? require('templates/footer.php'); ?>

@@ -244,12 +244,23 @@
         <dd><a href="mailto:molyjammalmo@gmail.com">Email the team</a></dd>
       </dl>
     </div>
-    <div class="span4" id="christchurch">
+    <div class="span4" id="tel aviv">
       <h3><a href="https://www.facebook.com/events/327359410657720/">Tel Aviv, Israel</a></h3>
       <dl class="dl-horizontal">
         <dt>Eli Brody</dt>
         <dd><a href="https://twitter.com/elibrody">@elibrody</a></dd>        
       </dl>
+    </div>		
+  </div>
+  <div class="row">
+    <div class="span5 offset1" id="christchurch">
+	  <h3><a href="https://www.facebook.com/events/287156334686133/">Christchurch, New Zealand</a></h3>
+      <dl class="dl-horizontal">
+        <dt>James Tan</dt>        
+        <dd><a href="mailto:molyjamnz@gmail.com">Email the team</a></dd>
+      </dl>
+    </div>
+    <div class="span4">      
     </div>		
   </div>
 </div>

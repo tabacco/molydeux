@@ -10,6 +10,18 @@
       </div>
     </div>
     <div class="row" id="announcements">
+      <div class="span10 offset1"> 
+        <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
+          <h3 class="green">
+          3/22/2012 - 47238923789 cities added! FAQ updates!
+          </h3>        
+        </div>
+      </div>
+      <div class="span10 offset1">
+        <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
+          <h4>Well, a lot, anyway. <a href="http://www.facebook.com/events/329487143774164/">Lexington, US</a>, <a href="http://www.facebook.com/events/396662183695103/">Austin, US</a>, <a href="https://www.facebook.com/events/370481596319539/">Dundee, Scotland</a>, <a href="https://www.facebook.com/events/252614434828906/">Malmö, Sweden</a>, <a href="https://www.facebook.com/events/327359410657720/">Tel Aviv, Israel</a>, <a href="http://www.facebook.com/events/287156334686133/">Christchurch, New Zealand</a>. Also, please check out our FAQ section about bringing your own equipment and ideal team size.</h4>
+        </div>
+      </div>    
      
       <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
@@ -156,20 +168,6 @@
       <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
           <h3 class="green">
-          Who owns the games that are made?
-          </h3>        
-        </div>
-      </div>
-      <div class="span10 offset1">
-        <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
-          <h4>The teams who made the games own the games. We will have a way for you to submit an executable to us so that others can check out what you've made, and we encourage you to do so, but it's your choice whether to send it to us. We will not ask you for source code or game assets. If you choose to release the game commercially, make sure the engine licenses are all squared away, because any licenses provided at the jam may be temporary.</h4>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="span10 offset1"> 
-        <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
-          <h3 class="green">
           Where do I go?
           </h3>        
         </div>
@@ -179,7 +177,49 @@
           <h4>Check with your local <a href="https://www.facebook.com/events/343017505734553/">Facebook invite</a> where the venue will be.</h4>
         </div>
       </div>
-    </div>  
+    </div>
+    <div class="row">
+      <div class="span10 offset1"> 
+        <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
+          <h3 class="green">
+          Will computers be provided?
+          </h3>        
+        </div>
+      </div>
+      <div class="span10 offset1">
+        <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
+          <h4>No, please bring your own laptops. You will have power and Wi-Fi access at the venue. Alternatively, you can work from home and just attend the kickoff on Friday and the fest on Sunday.</h4>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="span10 offset1"> 
+        <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
+          <h3 class="green">
+          Who owns the games that are made?
+          </h3>        
+        </div>
+      </div>
+      <div class="span10 offset1">
+        <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
+          <h4>The teams who made the games own the games. We will have a way for you to submit an executable to us so that others can check out what you've made, and we encourage you to do so, but it's your choice whether to send it to us. We will not ask you for source code or game assets. If you choose to release the game commercially, make sure the engine licenses are all squared away, because any licenses provided at the jam may be temporary.</h4>
+        </div>
+      </div>
+    </div> 
+    <div class="row">
+      <div class="span10 offset1"> 
+        <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
+          <h3 class="green">
+          Is it a good idea that my team has 26 people?
+          </h3>        
+        </div>
+      </div>
+      <div class="span10 offset1">
+        <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
+          <h4>We recommend team sizes to not exceed 5 core members. You only have 48 hours to make a game and it's just easier to make it happen with a smaller team.</h4>
+        </div>
+      </div>
+    </div>         
     <div class="row">
       <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       

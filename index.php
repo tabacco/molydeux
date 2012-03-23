@@ -205,6 +205,10 @@
       <dl class="dl-horizontal">
         <dt>Amna Nadim</dt>
         <dd><a href="https://twitter.com/mochasips">@mochasips</a></dd>
+        <dt>Osama Hashmi</dt>
+        <dd><a href="https://twitter.com/BrewedThoughts">@BrewedThoughts</a></dd>
+        <dt>Donald Harris</dt>
+        <dd><a href="https://twitter.com/TallGamer">@TallGamer</a></dd>
         <dd><a href="mailto:molyjamatx@gmail.com">Email the team</a></dd>
       </dl>
     </div>

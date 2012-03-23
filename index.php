@@ -237,7 +237,7 @@
   </div>
   <div class="row">
     <div class="span5 offset1" id="malmo">
-	  <h3><a href="https://www.facebook.com/events/252614434828906/">Malmo, Sweden</a></h3>
+	  <h3><a href="https://www.facebook.com/events/252614434828906/">Malmö, Sweden</a></h3>
         <dl class="dl-horizontal">
           <dt>Erik Sjöblom</dt>
           <dd><a href="https://twitter.com/ErikSjoblom">@ErikSjoblom</a></dd>

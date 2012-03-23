@@ -10,6 +10,19 @@
       </div>
     </div>
     <div class="row" id="announcements">
+	  <div class="span10 offset1"> 
+        <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
+          <h3 class="green">
+          3/23/2012 - One more city!
+          </h3>        
+        </div>
+      </div>
+      <div class="span10 offset1">
+        <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
+          <h4>Didn't think it was possible this close to the event, but Molyjam is now happening in <a href="https://www.facebook.com/events/415441525149226/">Dieburg, Germany</a>!</h4>
+        </div>
+      </div> 	
+		
       <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
           <h3 class="green">

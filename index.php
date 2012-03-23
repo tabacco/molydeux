@@ -267,7 +267,13 @@
         <dd><a href="mailto:molyjamnz@gmail.com">Email the team</a></dd>
       </dl>
     </div>
-    <div class="span4">      
+    <div class="span4" id="dieburg">  
+      <h3><a href="http://www.facebook.com/events/415441525149226/">Dieburg, Germany</a></h3>
+      <dl class="dl-horizontal">
+        <dt>Oliver Eberlei</dt>
+        <dd><a href="https://twitter.com/olivereberlei">@olivereberlei</a></dd>
+        <dd><a href="mailto:molyjamdieburg@googlemail.com">Email the team</a></dd>
+      </dl>    
     </div>		
   </div>
 </div>

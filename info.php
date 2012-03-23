@@ -57,7 +57,7 @@
       </div>
     <div class="span10 offset1">
         <div style="width: auto; height: auto; padding-top:12px; padding-bottom:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">
-        <h4>There is a logo and template that is being designed at the moment. T-Shirts will be handled by each local venue in an opt-in fashion. There will be space for local sponsorship logos.</h4>
+        <h4>T-shirts will be handled by each local venue in an opt-in fashion. <a href="http://www.whatwouldmolydeux.com/shirts/molydeux_shirt.zip">Download the template here</a>. It includes an Illustrator file with the front and the back of the shirt, as well as the font used in the design, so you can add your city's name underneath the "What Would Molydeux?" graphic on the back. If you need to include a sponsor's logo, place it under your city's name. </h4>
       </div>
       </div>
     <div class="span10 offset1">

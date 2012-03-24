@@ -57,7 +57,7 @@
       </div>
     <div class="span10 offset1">
         <div style="width: auto; height: auto; padding-top:12px; padding-bottom:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">
-        <h4>T-shirts will be handled by each local venue in an opt-in fashion. <a href="http://www.whatwouldmolydeux.com/shirts/molydeux_shirt.zip">Download the template here</a>. It includes an Illustrator file with the front and the back of the shirt, as well as the font used in the design, so you can add your city's name underneath the "What Would Molydeux?" graphic on the back. If you need to include a sponsor's logo, place it under your city's name. </h4>
+        <h4>T-shirts will be handled by each local venue in an opt-in fashion. <a href="http://www.whatwouldmolydeux.com/shirts/molydeux_shirt.zip">Download the template here</a>. It includes an Illustrator file with the front and the back of the shirt, as well as the font used in the design, so you can add your city's name underneath the "What Would Molydeux?" graphic on the back. If you need to include a sponsor's logo, place it under your city's name. <a href="http://www.facebook.com/profile.php?id=512240228">Joe Kowalski</a> has provided the <a href="http://www.whatwouldmolydeux.com/img/map.gif">map</a> he made in Illustrator format <a href="http://whatwouldmolydeux.com/shirts/molyneuxmap.ai">here</a> if you'd like to use that for the back of the tshirts (only a few cities were filled out at the time he made it, but it should be easy to tweak).</h4>
       </div>
       </div>
     <div class="span10 offset1">

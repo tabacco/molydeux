@@ -58,6 +58,14 @@
         <dd><a href="mailto:molyjamsf@gmail.com">Email the team</a></dd>
       </dl>
     </div>
+    <div class="span5 offset1" id="East Bay">
+      <h3><a href="http://www.facebook.com/events/266654650085748/">Oakland/East Bay</a></h3>
+      <dl class="dl-horizontal">
+        <dt>Brandon Sheffield</dt>
+        <dd><a href="http://www.twitter.com/necrosofty">@necrosofty</a></dd>
+        <dd><a href="mailto:molyjamsf@gmail.com">Email the team</a></dd>
+      </dl>
+    </div>
     <div class="span4" id="melbourne">
       <h3><a href="https://www.facebook.com/events/249349158493327/">Melbourne, Australia</a></h3>
       <dl class="dl-horizontal">
@@ -241,9 +249,9 @@
   </div>
   <div class="row">
     <div class="span5 offset1" id="malmo">
-	  <h3><a href="https://www.facebook.com/events/252614434828906/">Malmö, Sweden</a></h3>
+	  <h3><a href="https://www.facebook.com/events/252614434828906/">Malmï¿½, Sweden</a></h3>
       <dl class="dl-horizontal">
-        <dt>Erik Sjöblom</dt>
+        <dt>Erik Sjï¿½blom</dt>
         <dd><a href="https://twitter.com/ErikSjoblom">@ErikSjoblom</a></dd>
         <dd><a href="mailto:molyjammalmo@gmail.com">Email the team</a></dd>
       </dl>

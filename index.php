@@ -145,7 +145,7 @@
       </dl>
     </div>
     <div class="span4" id="sydney">
-      <h3><a href="https://www.facebook.com/events/340440959339334/">Sydney, Australia</a></h3>
+      <h3><a href="http://molyjamsydney-eorg.eventbrite.com.au/?ebtv=C">Sydney, Australia</a></h3>
       <dl class="dl-horizontal">
         <dt>Adrian Vergara</dt>
         <dd><a href="https://twitter.com/LevelUpAdrian">@LevelUpAdrian</a></dd>

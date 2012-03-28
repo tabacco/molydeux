@@ -10,6 +10,30 @@
       </div>
     </div>
     <div class="row" id="announcements">
+      <div class="span10 offset1"> 
+        <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
+          <h3 class="green">
+          3/27/2012 - New city added!
+          </h3>        
+        </div>
+      </div>
+      <div class="span10 offset1">
+        <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
+          <h4>Awesome <a href="http://www.facebook.com/events/269620596450287/">Helsinki, Finland</a> is now also on the molyjam roster.</h4>
+        </div>
+      </div>
+	  <div class="span10 offset1"> 
+        <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
+          <h3 class="green">
+          3/27/2012 - San Francisco splits into 2 locations: SF and East Bay!
+          </h3>        
+        </div>
+      </div>
+      <div class="span10 offset1">
+        <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
+          <h4>Please be advised that San Francisco has now separated into 2 venues: one in San Francisco and the other in Oakland. If you're in the East Bay and would like to sign up for <a href="http://www.facebook.com/events/266654650085748/">Oakland, go here</a>. For <a href="http://www.eventbrite.com/event/3237751201">San Francisco, go here</a>. If San Francisco has run out of space, <a href="http://www.facebook.com/events/266654650085748/">try Oakland</a>, which can accomodate 50 people.</h4>
+        </div>
+      </div>
 	  <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
           <h3 class="green">

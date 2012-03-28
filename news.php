@@ -13,13 +13,13 @@
       <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
           <h3 class="green">
-          3/27/2012 - New city added!
+          3/27/2012 - New cities added!
           </h3>        
         </div>
       </div>
       <div class="span10 offset1">
         <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
-          <h4>Awesome <a href="http://www.facebook.com/events/269620596450287/">Helsinki, Finland</a> is now also on the molyjam roster.</h4>
+          <h4>Awesome <a href="http://www.facebook.com/events/269620596450287/">Helsinki, Finland</a> and <a href="http://www.facebook.com/events/275420929199400/">Rio de Janeiro, Brazil</a> are now also on the molyjam roster.</h4>
         </div>
       </div>
 	  <div class="span10 offset1"> 

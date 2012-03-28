@@ -281,7 +281,7 @@
       </div>
       <div class="span10 offset1">
         <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
-          <h4>There will likely be an awesome engineer at your local meetup you can totally team up with, but if by some miracle you cannot find one, artist-friendly game engines will be provided.  Here are some for you to familiarize yourself with: <a href="http://www.yoyogames.com/gamemaker">Game Maker</a>, <a href="http://www.scirra.com/">Construct 2</a>, and <a href="http://gamesalad.com/creator">Game Salad</a>. It is recommended you check out <a href="http://unity3d.com/">Unity</a>, as well.</h4>
+          <h4>There will likely be an awesome engineer at your local meetup you can totally team up with, but if by some miracle you cannot find one, artist-friendly game engines will be provided.  Here are some for you to familiarize yourself with: <a href="http://www.yoyogames.com/gamemaker">Game Maker</a>, <a href="http://www.scirra.com/">Construct 2</a>, and <a href="http://gamesalad.com/creator">Game Salad</a>. It is recommended you check out <a href="http://unity3d.com/">Unity</a>, as well. <a href="http://primerlabs.com/codehero">This is a fun game</a> that teaches you Unity.</h4>
         </div>
       </div>
     </div>    

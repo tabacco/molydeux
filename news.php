@@ -295,7 +295,7 @@
       </div>
       <div class="span10 offset1">
         <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
-          <h4>We are presently working this out.</h4>
+          <h4>Yes. We will make a submissions website available to you so that you can post the executable for your game to share with everyone.  How you work remotely is up to you.  If you are near a hosting location, it will be a lot more fun for you to physically attend, at least some of the time.</h4>
         </div>
       </div>
     </div>     
@@ -309,7 +309,7 @@
       </div>
       <div class="span10 offset1">
         <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
-          <h4>We are presently working this out.</h4>
+          <h4>Yes. Details forthcoming.</h4>
         </div>
       </div>
     </div>    

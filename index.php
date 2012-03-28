@@ -296,7 +296,7 @@
     <div class="span5 offset1" id="rio">  
       <h3><a href="http://www.facebook.com/events/275420929199400/">Rio de Janeiro, Brazil</a></h3>
       <dl class="dl-horizontal">
-        <dt>Oliver Eberlei</dt>
+        <dt>Cleber Tavares Jr.</dt>
         <dd><a href="https://twitter.com/clebertavares">@clebertavares</a></dd>        
       </dl>    
     </div>		

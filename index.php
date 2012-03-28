@@ -300,7 +300,14 @@
         <dd><a href="https://twitter.com/clebertavares">@clebertavares</a></dd>        
       </dl>    
     </div>		
-    <div class="span4"></div>
+    <div class="span4" id="guadalajara">
+      <h3><a href="http://www.facebook.com/events/358080537564338/">Guadalajara, Mexico</a></h3>
+      <dl class="dl-horizontal">
+        <dt>Fernando Ramallo</dt>
+        <dd><a href="https://twitter.com/compositeredfox">@compositeredfox</a></dd> 
+        <dd><a href="molyjamguadalajara@gmail.com">Email the team</a></dd>
+      </dl>
+    </div>
   </div>
 </div>
 <? require('templates/footer.php'); ?>

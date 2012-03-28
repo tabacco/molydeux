@@ -10,6 +10,18 @@
       </div>
     </div>
     <div class="row" id="announcements">
+      <div class="span10 offset1"> 
+        <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
+          <h3 class="green">
+          3/28/2012 - Cities still being added, if you can believe it
+          </h3>        
+        </div>
+      </div>
+      <div class="span10 offset1">
+        <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
+          <h4><a href="http://www.facebook.com/events/358080537564338/">Guadalajara, Mexico</a> has been added to our esteemed roster of molyjam cities!</h4>
+        </div>
+      </div>
 	  <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
           <h3 class="green">

@@ -170,7 +170,7 @@
     <div class="row">
       <div class="span10 offset1">
         <div style="width: auto; height: auto; background-color:#1F2325; padding:10px 12px;">
-        <h3>Peter Molydeux's own <a href="http://molydeux.tumblr.com">molydeux.tumblr.com</a>, featuring curated ideas for molyjam.</h3>        
+        <h3>Peter Molydeux's own <a href="http://molydeux.tumblr.com">molydeux.tumblr.com</a>, featuring curated ideas for molyjam.  Check out <a href="http://indiegames.com/2011/10/petermolydeux_tweet_inspires_a.html">Good Bye, My Love</a>, the only <a href="https://twitter.com/petermolydeux">@petermolydeux</a> tweet-inspired game to date.</h3>        
         </div>
       </div>
     </div>  

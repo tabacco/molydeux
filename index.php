@@ -284,7 +284,7 @@
       </dl>    
     </div>		
     <div class="span4" id="helsinki">
-      <h3><a href="https://www.facebook.com/events/287156334686133/">Helsinki, Finland</a></h3>
+      <h3><a href="https://www.facebook.com/events/269620596450287/">Helsinki, Finland</a></h3>
       <dl class="dl-horizontal">
         <dt>Petri Purho</dt>        
         <dd><a href="https://twitter.com/PetriPurho">@PetriPurho</a></dd>

@@ -174,7 +174,7 @@
         </div>
       </div>
     </div>  
-    <div class="row">
+    <div class="row" id="faq">
       <div class="span10 offset1">
         <div style="width: auto; height: auto; background-color:#2C8C2E; padding:0 12px; text-align: center;">      
           <h2 class="allcaps cream">

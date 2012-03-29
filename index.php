@@ -337,7 +337,16 @@
         <dd><a href="mailto:molyjamNL@gmail.com">Email the team</a></dd>           
       </dl>    
     </div>	    
-    <div class="span4"></div>
+    <div class="span4">
+      <h3><a href="http://www.facebook.com/events/262366683849899/">Adelaide, Australia</a></h3>
+      <dl class="dl-horizontal">
+        <dt>Jaime von Schwarzburg</dt>
+        <dd><a href="https://twitter.com/tmthesaurus">@tmthesaurus</a></dd>
+        <dt>Josh Douglass-Molloy</dt>
+        <dd><a href="https://twitter.com/theJoshDM">@theJoshDM</a></dd>        
+        <dd><a href="mailto:molyjamadl@gmail.com">Email the team</a></dd>
+      </dl>
+    </div>
   </div>    
 </div>
 <? require('templates/footer.php'); ?>

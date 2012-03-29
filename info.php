@@ -52,6 +52,26 @@
       </div>
     <div class="span10 offset1">
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">
+        <h3 class="green">Live streaming</h3>
+      </div>
+      </div>
+    <div class="span10 offset1">
+        <div style="width: auto; height: auto; padding-top:12px; padding-bottom:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">
+        <h4>If you'd like to have livestreaming at your location, create a <a href="http://twitch.tv">Twitch.tv</a> account and send your account URL <a href="https://docs.google.com/spreadsheet/viewform?formkey=dGxoU1hIOUpLTjBabjh2T3dfRW1rRWc6MQ">here</a>.</h4>
+      </div>
+      </div>
+    <div class="span10 offset1">
+        <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">
+        <h3 class="green">Game Engine Licenses for the event</h3>
+      </div>
+      </div>
+    <div class="span10 offset1">
+        <div style="width: auto; height: auto; padding-top:12px; padding-bottom:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">
+        <h4>We have arranged to get temporary pro licenses from Unity, Game Maker, Game Salad, and Torque. Your contact for getting these licenses for the event is <a href="https://www.facebook.com/annabananakipnis">Anna Kipnis</a>.</h4>
+      </div>
+      </div>
+    <div class="span10 offset1">
+        <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">
         <h3 class="green">T-Shirts</h3>
       </div>
       </div>

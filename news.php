@@ -25,13 +25,13 @@
 	  <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
           <h3 class="green">
-          3/29/2012 - Three awesome new molyjam cities appear!
+          3/29/2012 - Four awesome new molyjam cities appear!
           </h3>        
         </div>
       </div>
       <div class="span10 offset1">
         <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
-          <h4>Our email forwarding broke for a little while, but thankfully it's just been sorted. Three new cities have been added! <a href="https://www.facebook.com/events/210175445753367/">Utrecht, Netherlands</a>, <a href="https://www.facebook.com/events/198705533576701/">Ottawa, Canada</a>, and <a href="http://www.facebook.com/events/343964605641443/">Turku, Finland</a>! Please come out and join if these venues are near you.</h4>
+          <h4>Our email forwarding broke for a little while, but thankfully it's just been sorted. Four new cities have been added! <a href="https://www.facebook.com/events/210175445753367/">Utrecht, Netherlands</a>, <a href="https://www.facebook.com/events/198705533576701/">Ottawa, Canada</a>, <a href="http://www.facebook.com/events/343964605641443/">Turku, Finland</a>, and <a href="http://www.facebook.com/events/262366683849899/">Adelaide, Australia</a>! Please come out and join if these venues are near you.</h4>
         </div>
       </div>
       <div class="span10 offset1"> 

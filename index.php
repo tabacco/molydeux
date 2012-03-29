@@ -298,6 +298,7 @@
       <dl class="dl-horizontal">
         <dt>Tatu Laine</dt>
         <dd><a href="https://twitter.com/tatulaine">@tatulaine</a></dd>   
+        <dd><a href="mailto:loadturku1@gmail.com">Email the team</a></dd>        
       </dl>    
     </div>		    		
     <div class="span4" id="guadalajara">

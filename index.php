@@ -206,14 +206,14 @@
         <dd><a href="mailto:molydeuxphoenix@gmail.com">Email the team</a></dd>
       </dl>
     </div>    
-    <div class="span4" id="monterrey">
-      <h3><a href="https://www.facebook.com/#!/events/319433411452017/">Monterrey, Mexico</a></h3>
+    <div class="span4" id="ottawa">
+      <h3><a href="https://www.facebook.com/events/198705533576701/">Ottawa, Canada</a></h3>
       <dl class="dl-horizontal">
-        <dt>Mike Olvera</dt>
-        <dd><a href="https://twitter.com/Mike_alebrije">@Mike_alebrije</a></dd>
-        <dd><a href="mailto:molyjammty@gmail.com">Email the team</a></dd>
+        <dt>Derek Ledoux</dt>
+        <dd><a href="https://twitter.com/DirtyRectangles">@DirtyRectangles</a></dd>                 
+        <dd><a href="mailto:hello@dirty-rectangles.com">Email the team</a></dd>
       </dl>
-    </div>
+    </div>    
   </div>
   <div class="row">
 	<div class="span5 offset1" id="austin">
@@ -288,26 +288,56 @@
       <dl class="dl-horizontal">
         <dt>Petri Purho</dt>        
         <dd><a href="https://twitter.com/PetriPurho">@PetriPurho</a></dd>
-        <dd><a href="molyjamhelsinki@gmail.com">Email the team</a></dd>
+        <dd><a href="mailto:molyjamhelsinki@gmail.com">Email the team</a></dd>
       </dl>
     </div>
   </div>
   <div class="row">
-    <div class="span5 offset1" id="rio">  
+    <div class="span5 offset1" id="turku">  
+      <h3><a href="http://www.facebook.com/events/343964605641443/">Turku, Finland</a></h3>
+      <dl class="dl-horizontal">
+        <dt>Tatu Laine</dt>
+        <dd><a href="https://twitter.com/tatulaine">@tatulaine</a></dd>   
+      </dl>    
+    </div>		    		
+    <div class="span4" id="guadalajara">
+      <h3><a href="http://www.facebook.com/events/358080537564338/">Guadalajara, Mexico</a></h3>
+      <dl class="dl-horizontal">
+        <dt>Fernando Ramallo</dt>
+        <dd><a href="https://twitter.com/compositeredfox">@compositeredfox</a></dd>         
+        <dt>Santiago Espejo</dt>
+        <dd><a href="https://twitter.com/compositeredfox">@josaecweb</a></dd>         
+        <dd><a href="mailto:molyjamguadalajara@gmail.com">Email the team</a></dd>
+      </dl>
+    </div>
+  </div>
+  <div class="row">
+	<div class="span5 offset1" id="rio">  
       <h3><a href="http://www.facebook.com/events/275420929199400/">Rio de Janeiro, Brazil</a></h3>
       <dl class="dl-horizontal">
         <dt>Cleber Tavares Jr.</dt>
         <dd><a href="https://twitter.com/clebertavares">@clebertavares</a></dd>        
       </dl>    
-    </div>		
-    <div class="span4" id="guadalajara">
-      <h3><a href="http://www.facebook.com/events/358080537564338/">Guadalajara, Mexico</a></h3>
+    </div>	    
+    <div class="span4" id="monterrey">
+      <h3><a href="https://www.facebook.com/#!/events/319433411452017/">Monterrey, Mexico</a></h3>
       <dl class="dl-horizontal">
-        <dt>Fernando Ramallo</dt>
-        <dd><a href="https://twitter.com/compositeredfox">@compositeredfox</a></dd> 
-        <dd><a href="molyjamguadalajara@gmail.com">Email the team</a></dd>
+        <dt>Mike Olvera</dt>
+        <dd><a href="https://twitter.com/Mike_alebrije">@Mike_alebrije</a></dd>
+        <dd><a href="mailto:molyjammty@gmail.com">Email the team</a></dd>
       </dl>
     </div>
   </div>
+  <div class="row">
+	<div class="span5 offset1" id="utrecht">  
+      <h3><a href="https://www.facebook.com/events/210175445753367/">Utrecht, Netherlands</a></h3>
+      <dl class="dl-horizontal">
+        <dt>Zuraida Buter</dt>
+        <dd><a href="https://twitter.com/zoewi">@zoewi</a></dd>   
+        <dd><a href="mailto:molyjamNL@gmail.com">Email the team</a></dd>           
+      </dl>    
+    </div>	    
+    <div class="span4"></div>
+  </div>    
 </div>
 <? require('templates/footer.php'); ?>

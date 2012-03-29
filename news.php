@@ -10,6 +10,30 @@
       </div>
     </div>
     <div class="row" id="announcements">
+	  <div class="span10 offset1"> 
+        <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
+          <h3 class="green">
+          3/29/2012 - GameSalad webinar access!
+          </h3>        
+        </div>
+      </div>
+      <div class="span10 offset1">
+        <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
+          <h4>Check out <a href=" https://www4.gotomeeting.com/register/886580367">this webinar</a> that <a href="http://gamesalad.com/">GameSalad</a> has generously provided for training you to use their engine for game creation (access limited to first 500 people).</h4>
+        </div>
+      </div>
+	  <div class="span10 offset1"> 
+        <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
+          <h3 class="green">
+          3/29/2012 - Three awesome new molyjam cities appear!
+          </h3>        
+        </div>
+      </div>
+      <div class="span10 offset1">
+        <div style="width: auto; height: auto; padding-top:12px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">                   
+          <h4>Our email forwarding broke for a little while, but thankfully it's just been sorted. Three new cities have been added! <a href="https://www.facebook.com/events/210175445753367/">Utrecht, Netherlands</a>, <a href="https://www.facebook.com/events/198705533576701/">Ottawa, Canada</a>, and <a href="http://www.facebook.com/events/343964605641443/">Turku, Finland</a>! Please come out and join if these venues are near you.</h4>
+        </div>
+      </div>
       <div class="span10 offset1"> 
         <div style="width: auto; height: auto; padding-top:20px; padding-left: 12px; padding-right: 12px; background-color:#1F2325;">       
           <h3 class="green">
